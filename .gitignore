@@ -5,3 +5,4 @@
 xcuserdata/
 *.xcworkspacedata
 IDEWorkspaceChecks.plist
+*.swiftpm
